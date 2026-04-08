@@ -1,5 +1,6 @@
 fastapi
 uvicorn
-torch
-torchvision
 pillow
+python-multipart
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
